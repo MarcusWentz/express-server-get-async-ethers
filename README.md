@@ -30,7 +30,7 @@ http://localhost:3099/hello
 
 <img src="https://github.com/MarcusWentz/express-server-get-async-ethers/blob/main/test_images_api_outputs/hello.png" alt="hello"/>
 
-## Test GET request for Base Sepolia smart contract storage value using ethers.js
+## Test GET request for smart contract storage value using ethers.js
 
 http://localhost:3099/storage
 
