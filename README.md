@@ -6,13 +6,13 @@
 npm i
 ```
 
-## Build the Express Server
+## Build the Express Server 
 
 ```shell
 npm run build
 ```
 
-## Modified app.js route folder path to the new API file 
+## Modified server/app.js for route folder path to the new API file 
 
 ```js
 const router = require("./routes/ethersTest.js");
