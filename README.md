@@ -34,7 +34,7 @@ http://localhost:3099/hello
 
 http://localhost:3099/storage
 
-Smart contract value for reference:
+Smart contract value for reference (when storedData = 5):
 
 https://sepolia.basescan.org/address/0xeD62F27e9e886A27510Dc491F5530996719cEd3d#readContract#F1
 
